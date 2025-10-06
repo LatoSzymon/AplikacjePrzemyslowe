@@ -1,4 +1,4 @@
-package LatoRok3.apki_przemys.owe;
+package LatoRok3.apki_przemyslowe;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
