@@ -1,4 +1,4 @@
-package LatoRok3.apki_przemys.owe;
+package LatoRok3.apki_przemyslowe;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
